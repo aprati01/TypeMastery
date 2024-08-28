@@ -186,7 +186,7 @@ const Home = () => {
       </div>
       <div className="footer">
         Made with <span class="love">♥</span> by{" "}
-        <a class="green" href="https://github.com/wasimreja/" target="_blank">
+        <a class="green" href="https://github.com/aprati01/TypeMastery" target="_blank">
           Arnab Pratihar
         </a>
       </div>
